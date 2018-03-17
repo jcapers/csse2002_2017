@@ -1,4 +1,4 @@
-# Java Code Samples from CSSE2002 (2017)
+# Java Code Samples from CSSE2002 (2017, March - June)
 Java Code samples from a computer science course, csse2002 (2017) at the University of QLD.
 
 ## Part 1
